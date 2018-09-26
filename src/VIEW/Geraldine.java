@@ -12,4 +12,5 @@ package VIEW;
 public class Geraldine {
     public String nombre = "Geraldine";
     private int edad = 22;
+    private double talla = 1.68; //vale la pena soñar
 }

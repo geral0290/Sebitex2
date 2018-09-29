@@ -13,4 +13,5 @@ public class Geraldine {
     public String nombre = "Geraldine";
     private int edad = 22;
     private double talla = 1.68; //vale la pena soñar
+    private String nuevaCadenita="Esta cadena es para ti 28/09/2018"; 
 }
